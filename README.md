@@ -16,7 +16,7 @@
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando-a-aplicação">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Lincença</a>
 </p>
@@ -37,7 +37,7 @@ A Rocketpay é aplicação é uma REST API para transações, depósitos e saque
 - [x] Saque da conta
 - [x] Transações entre contas
 - [x] Leitura de arquivo cvs
-- [ ] Autenticação de rotas
+- [x] Autenticação de rotas
 - [x] Testes com elixir 
 
 ### ⚙ Pré-requisitos
