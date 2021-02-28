@@ -68,7 +68,7 @@ $ mix phx.server
 ### 🧾 Insomnia
 Para ter um exemplo das rotas para a nossa API, basta clicar no link abaixo:
 </br>
-<a href="https://insomnia.rest/run/?label=Rest%20API%20GoBarber&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2FGoBarber-Backend%2Fblob%2Fmaster%2Ftmp%2Frest_api.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a href="https://insomnia.rest/run/?label=Rocketpay&uri=https%3A%2F%2Fgithub.com%2Fgabriel-nt%2FRocketpay%2Fblob%2Fmaster%2Fassets%2Frest_api.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 ### 🚀 Tecnologias
 
